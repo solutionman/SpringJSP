@@ -8,6 +8,7 @@
 </head>
 <body>
     <h2 class="hello-title">Hello ${name}!</h2>
+    <p class="simpletext">You may take a look at console message from js</p>
     <script src="/js/main.js"></script>
 </body>
 </html>
